@@ -1,6 +1,15 @@
 ## Requirements
 
-No requirements.
+An HCP Vault Cluster with VAULT_ADDR and VAULT_TOKEN env vars set (for terraform).
+Docker installed and running.
+Kafka (for MacOs you can run `brew install kafka`).
+curl
+jq
+
+## Workflow
+Apply terraform from the vault-config dir
+Run the 00-setup.sh script
+You can debug the 01-producer.sh and 02-consumer.sh scripts
 
 ## Providers
 
