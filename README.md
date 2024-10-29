@@ -44,3 +44,8 @@ No inputs.
 |------|-------------|
 | <a name="output_kafka-decrypt-token"></a> [kafka-decrypt-token](#output\_kafka-decrypt-token) | n/a |
 | <a name="output_kafka-encrypt-token"></a> [kafka-encrypt-token](#output\_kafka-encrypt-token) | n/a |
+
+
+For running this demo, use my crdentials:
+AWS_ACCESS_KEY=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
