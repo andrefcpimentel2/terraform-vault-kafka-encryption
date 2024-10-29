@@ -44,3 +44,7 @@ No inputs.
 |------|-------------|
 | <a name="output_kafka-decrypt-token"></a> [kafka-decrypt-token](#output\_kafka-decrypt-token) | n/a |
 | <a name="output_kafka-encrypt-token"></a> [kafka-encrypt-token](#output\_kafka-encrypt-token) | n/a |
+
+
+I'm going to put a super sensitive password here: Password12345677777
+AWS_ACCESS_KEY: AKIAIOSFODNN7EXAMPLE
